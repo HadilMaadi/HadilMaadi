@@ -6,6 +6,7 @@
 
 
 ## 🌐 Socials:
+www.linkedin.com/in/hadil-maadi
 
 
 # 💻 Tech Stack:
